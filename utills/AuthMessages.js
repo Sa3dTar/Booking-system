@@ -1,0 +1,7 @@
+export const NOT_EXISTED_USER =  'the user already exist'
+export const REGISTERD =  'registerd successfully'
+export const NOT_EXISTED_USERS =  'users not found'
+export const SINGLE_USER = 'user has showed successfully'
+export const USERS = 'users has showed successfully'
+export const UPDATED_USER= 'user has updated successfully'
+export const DELETED_USER = 'user has deleted successfully'

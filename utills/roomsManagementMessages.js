@@ -1,0 +1,6 @@
+export const NOT_EXISTED_ROOM = 'room is not exist'
+export const ADDED_ROOM = 'room has added successfully'
+export const ALL_ROOMS = 'all rooms has showed successfully'
+export const SINGLE_ROOM = 'single room has showed successfully'
+export const UPDATED_ROOM = 'room has updated successfully'
+export const DELETED_ROOM = 'room has deleted'

@@ -1,0 +1,8 @@
+export const EXISTED_HOTEL = 'the hotel already exis'
+export const NOT_IMAGE = 'image is required'
+export const ADDED_HOTEL = 'hotel has added successfully'
+export const NOT_EXISTED_HOTEL = 'hotels not found'
+export const All_HOTELS = 'all hotels showed successfully'
+export const SINGLE_HOTEL = 'hotel has showed successfully'
+export const UPDATED_HOTEL = 'hotel has updated successfully'
+export const DELETED_HOTEL = 'hotel has deleted successfully'
